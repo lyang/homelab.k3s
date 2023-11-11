@@ -1,1 +1,2 @@
 pre-commit>=3.5.0
+molecule>=6.0.2
